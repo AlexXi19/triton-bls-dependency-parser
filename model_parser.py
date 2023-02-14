@@ -80,7 +80,7 @@ def eval_attribute(var_name):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python3 parser.py <filename>")
+        print("Usage: python3 model_parser.py <filename>")
         sys.exit(1)
 
     filename = sys.argv[1]
