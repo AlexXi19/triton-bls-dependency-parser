@@ -1,5 +1,5 @@
 # triton-bls-dependency-parser
-Parses Nvidia Triton BLS Dependency 
+Parses Nvidia Triton BLS Dependencies using python AST (Abstract Syntax Tree)
 
 ### How to use 
 
